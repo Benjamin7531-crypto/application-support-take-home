@@ -20,6 +20,6 @@ certutil -hashfile .\genesis.json SHA256
 
 2. 
 
-3. 0.09383145 CRO .\chain-maind.exe query account cro1hsr2z6lr7k2szjktzjst46rr9cfavprqas20gc
+3. 0.09383145 CRO ```.\chain-maind.exe query account cro1hsr2z6lr7k2szjktzjst46rr9cfavprqas20gc```
 
-4. 6665D5883A7F029B37AE37D8ACDCC5B7BE6982018BB9280814A826CE2D494DDA .\chain-maind.exe query block 13947398
+4. 6665D5883A7F029B37AE37D8ACDCC5B7BE6982018BB9280814A826CE2D494DDA ```.\chain-maind.exe query block 13947398```
