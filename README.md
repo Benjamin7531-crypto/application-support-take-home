@@ -9,10 +9,14 @@ Part 1 answers:
 
 Part 2 answers:
 1. After installing chain-maind, I ran these commands (windows machine)
-     .\chain-maind init benjamin8642 --chain-id crypto-org-chain-mainnet-1
-     Downloaded https://raw.githubusercontent.com/crypto-org-chain/mainnet/main/crypto-org-chain-mainnet-1/genesis.json manually
-     Verified the checksum of the downloaded genesis.json file using
-     certutil -hashfile .\genesis.json SHA256
+```
+.\chain-maind init benjamin8642 --chain-id crypto-org-chain-mainnet-1
+```
+Downloaded https://raw.githubusercontent.com/crypto-org-chain/mainnet/main/crypto-org-chain-mainnet-1/genesis.json manually
+Verified the checksum of the downloaded genesis.json file using
+```
+certutil -hashfile .\genesis.json SHA256
+```
 
 2. 
 
