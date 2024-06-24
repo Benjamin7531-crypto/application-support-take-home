@@ -1,5 +1,4 @@
-# crypto.com-test
-Crypto.com take home assignment
+# Take home assignment
 
 Part 1 answers:
 1. https://explorer.solana.com/address/GKN45uFdG7WjhyZ4f7BmrXorSbxG7QJtDzGehWkywZLW?cluster=testnet
